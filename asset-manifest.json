@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/watyrSite/static/css/main.c920f7f1.chunk.css",
+    "main.js": "/watyrSite/static/js/main.039cc00f.chunk.js",
+    "main.js.map": "/watyrSite/static/js/main.039cc00f.chunk.js.map",
+    "runtime-main.js": "/watyrSite/static/js/runtime-main.bb578b0f.js",
+    "runtime-main.js.map": "/watyrSite/static/js/runtime-main.bb578b0f.js.map",
+    "static/css/2.383c0125.chunk.css": "/watyrSite/static/css/2.383c0125.chunk.css",
+    "static/js/2.d4737fbc.chunk.js": "/watyrSite/static/js/2.d4737fbc.chunk.js",
+    "static/js/2.d4737fbc.chunk.js.map": "/watyrSite/static/js/2.d4737fbc.chunk.js.map",
+    "index.html": "/watyrSite/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/watyrSite/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.c920f7f1.chunk.css.map": "/watyrSite/static/css/main.c920f7f1.chunk.css.map",
+    "static/js/2.d4737fbc.chunk.js.LICENSE.txt": "/watyrSite/static/js/2.d4737fbc.chunk.js.LICENSE.txt",
+    "static/media/DataFlow.92c2fe05.jpg": "/watyrSite/static/media/DataFlow.92c2fe05.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb578b0f.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.d4737fbc.chunk.js",
+    "static/css/main.c920f7f1.chunk.css",
+    "static/js/main.039cc00f.chunk.js"
+  ]
+}
