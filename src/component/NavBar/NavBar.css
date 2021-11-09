@@ -1,0 +1,50 @@
+nav{
+    /* background-color:transparent; */
+    color: white; 
+    font-family: 'DM Sans';
+    font-weight: bold;
+    opacity: 100;
+    z-index: 7;
+} 
+.navbar-brand{
+    color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: 'DM Sans';
+    text-align: left;
+}
+.nav-item{
+   color: white; 
+}
+#titleName{
+    font-size: 40px;
+    color: white; 
+}
+.navbar{
+    width: 100%;
+    color: white;
+}
+#navbar1{
+    font-size: 30px;
+    padding-right: 275px;
+}
+
+.atag{
+    color: white;
+    opacity: 100%;
+}
+
+@media only screen and (max-width: 500px) {
+
+    #navbar1{
+      font-size: 25px;
+    }
+
+   #titleName{
+        font-size: 25px;
+    }
+    .liH{
+        font-size: 15px ;
+    }
+    
+}
