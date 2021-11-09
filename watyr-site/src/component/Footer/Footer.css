@@ -1,0 +1,41 @@
+footer {
+    clear: both;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    /* height: 30%; */
+    /* border-top:5px solid rgb(31, 44, 79) ; */
+    /* font-size: 15px; */
+    text-align: left;
+    font-family: 'DM Sans';
+    color:black;
+    padding-top: 0% ;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.title {
+    font-size: 20px;
+}
+.info {
+    font-size: 16px;
+}
+.lineItem{
+    padding: 0%;
+    margin: 0%;
+    font-size: 15px;
+}
+.foot{
+    background-color:#F7FAFF;
+    width: 100%;
+    /* height: 200px; */
+}
+@media only screen and (max-width: 500px) {
+    .title {
+        font-size: 10px;
+    }
+    .lineItem{
+        padding: 0%;
+        margin: 0%;
+        font-size: 10px;
+    }
+}
