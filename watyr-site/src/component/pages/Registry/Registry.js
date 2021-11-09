@@ -8,12 +8,11 @@ import RegistryInfo from "../../RegistryInfo/RegistryInfo";
 
 function Registry() {
   return (
-    <div className="waytrTop">
+    <div>
     {/* <Wrapper className="waytrTop">
       <NavBar className="waytrTop" />
       <RegistryInfo/>
     </Wrapper> */}
-  
     <NavBar />
     <Wrapper>
       <RegistryInfo/>
