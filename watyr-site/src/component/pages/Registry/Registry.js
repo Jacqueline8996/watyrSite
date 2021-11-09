@@ -13,13 +13,11 @@ function Registry() {
       <NavBar className="waytrTop" />
       <RegistryInfo/>
     </Wrapper> */}
-    <div>
     <div className="waytrTop">
     <NavBar />
     <Wrapper>
       <RegistryInfo/>
     </Wrapper>
-    </div>
     <Footer className="footers"/>
     </div>
     {/* <div className="waytrTop">
