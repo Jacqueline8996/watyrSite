@@ -9,7 +9,7 @@ import TeamInfo from "../../TeamInfo/TeamInfo"
 function Team() {
   return (
     <div>
-    <div className = "waytrTopT">
+    <div>
       <NavBar />
       <Wrapper>
         <TeamInfo/>
