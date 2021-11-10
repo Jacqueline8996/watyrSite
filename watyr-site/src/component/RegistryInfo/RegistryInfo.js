@@ -1,10 +1,11 @@
 import React from "react";
 // import { Link } from "react-router-dom";
 import "./RegistryInfo.css";
+
 function RegistryInfo() {
   return (
     <div>
-      <div className="container divCenterR waytrTop">
+      <div className="container divCenterR">
         <section>
         <div className="row">
             <div className="homeArea contactArea">
@@ -125,7 +126,7 @@ function RegistryInfo() {
           </section>
         </div>
       </div> */}
-      </div>
+    </div>
   );
 }
 
