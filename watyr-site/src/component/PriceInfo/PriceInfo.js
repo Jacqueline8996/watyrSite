@@ -5,7 +5,7 @@ import "./PriceInfo.css";
 function PriceInfo() {
   return (
     <div>
-      <div className="container divCenterR">
+      <div className="container divCenterR topPrice">
         <section>
           <div>
             <div>

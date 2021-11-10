@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 function NavBar() {
   return (
-    <nav className="navbar navbar-light navbar-expand-lg waytrH">
+    <nav className="navbar navbar-light navbar-expand-lg waytrH waytrTopP">
         <Link to ="/" className="navbar-brand" id="titleName">WAYTR</Link>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1">
             <span className="navbar-toggler-icon"></span>
