@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/watyrSite/static/css/main.4fff00da.chunk.css",
-    "main.js": "/watyrSite/static/js/main.7506d072.chunk.js",
-    "main.js.map": "/watyrSite/static/js/main.7506d072.chunk.js.map",
+    "main.css": "/watyrSite/static/css/main.df83b979.chunk.css",
+    "main.js": "/watyrSite/static/js/main.598d84f9.chunk.js",
+    "main.js.map": "/watyrSite/static/js/main.598d84f9.chunk.js.map",
     "runtime-main.js": "/watyrSite/static/js/runtime-main.bb578b0f.js",
     "runtime-main.js.map": "/watyrSite/static/js/runtime-main.bb578b0f.js.map",
     "static/css/2.383c0125.chunk.css": "/watyrSite/static/css/2.383c0125.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.d4737fbc.chunk.js.map": "/watyrSite/static/js/2.d4737fbc.chunk.js.map",
     "index.html": "/watyrSite/index.html",
     "static/css/2.383c0125.chunk.css.map": "/watyrSite/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.4fff00da.chunk.css.map": "/watyrSite/static/css/main.4fff00da.chunk.css.map",
+    "static/css/main.df83b979.chunk.css.map": "/watyrSite/static/css/main.df83b979.chunk.css.map",
     "static/js/2.d4737fbc.chunk.js.LICENSE.txt": "/watyrSite/static/js/2.d4737fbc.chunk.js.LICENSE.txt",
     "static/media/DataFlow.92c2fe05.jpg": "/watyrSite/static/media/DataFlow.92c2fe05.jpg"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.bb578b0f.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.d4737fbc.chunk.js",
-    "static/css/main.4fff00da.chunk.css",
-    "static/js/main.7506d072.chunk.js"
+    "static/css/main.df83b979.chunk.css",
+    "static/js/main.598d84f9.chunk.js"
   ]
 }
