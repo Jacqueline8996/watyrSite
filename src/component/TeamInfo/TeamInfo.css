@@ -99,3 +99,41 @@ body{
     color: rgb(246, 206, 206);
     font-size: 50px;
 }
+@media only screen and (max-width: 500px) {
+  
+    .headingT{
+        font-size: 25px;
+    }
+   
+    .teamHeader{
+        font-size: 25px;
+
+
+    }
+    .team{
+        padding-top: 7%;
+    }
+    .descriptionT{
+        font-size: 10px;
+    }
+    .homeArea{ 
+       width: 100%;
+    }
+    .headingH{
+        /* color: rgb(246, 206, 206); */
+        padding-top: 2%;
+        text-align: left;
+        font-size: 24px;
+        font-family: 'DM sans';
+        margin-bottom: 0%;
+    
+    }
+    .name{
+      font-size: 15px;
+    }
+    .info{
+        font-size: 10px;
+    }
+    
+
+}
