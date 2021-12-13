@@ -8,10 +8,10 @@ function TeamInfo() {
       <div className="container divCenterR">
         <section>
           <div className="headerArea">
-            <div className="Theading">
+            <div className="heading">
               Our mission is to help the food industry .
             </div>
-            <div className="Tdescription">
+            <div className="description">
               Waytr is an app optimizing the operations of restaurants and cafes to the benefit of both workers and users. A simple solution that can make the dining in process smoother all around.             </div>
           </div>
         </section>

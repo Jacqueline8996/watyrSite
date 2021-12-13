@@ -9,10 +9,12 @@ import ProcessPage from "../../ProcessPage/ProcessPage.js";
 function Process() {
   return (
     <div>
+    <div className="waytrTop">
     <NavBar />
     <Wrapper>
       <ProcessPage/>
     </Wrapper>
+    </div>
     <Footer className="footers"/>
     </div>
   );

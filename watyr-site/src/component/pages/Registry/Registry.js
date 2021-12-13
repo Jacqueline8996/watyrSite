@@ -9,26 +9,13 @@ import RegistryInfo from "../../RegistryInfo/RegistryInfo";
 function Registry() {
   return (
     <div>
-      <NavBar/>
-      <Wrapper >
-        <RegistryInfo/>
-      </Wrapper>
-    {/* <NavBar className = "waytrTop"/>
-    <Wrapper >
-      <RegistryInfo className = "waytrTop"/>
-    </Wrapper> */}
-      {/* <NavBar />
-      <Wrapper>
-        <RegistryInfo/>
-      </Wrapper> */}
-    <Footer className="footers"/>
-    {/* <div className="waytrTop">
+    <div className="waytrTop">
     <NavBar />
     <Wrapper>
       <RegistryInfo/>
     </Wrapper>
     </div>
-    <Footer className="footers"/> */}
+    <Footer className="footers"/>
     </div>
   );
 }
