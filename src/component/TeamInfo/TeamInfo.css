@@ -99,6 +99,22 @@ body{
     color: rgb(246, 206, 206);
     font-size: 50px;
 }
+
+.headingT{
+    font-size: 50px;
+}
+
+.teamHeader{
+    font-size: 50px;
+
+
+}
+.team{
+    padding-top: 7%;
+}
+.descriptionT{
+    font-size: 25px;
+}
 @media only screen and (max-width: 500px) {
   
     .headingT{
@@ -111,7 +127,7 @@ body{
 
     }
     .team{
-        padding-top: 7%;
+        padding-top: 10%;
     }
     .descriptionT{
         font-size: 10px;
