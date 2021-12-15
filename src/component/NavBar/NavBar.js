@@ -12,16 +12,16 @@ function NavBar() {
         <div className="collapse navbar-collapse active text-white " id="navbar1">
           <ul className="navbar-nav mx-auto">
             <li className="nav-item liH">
-                <Link to = "/Home" className="nav-link atag text-white ">Home</Link>
+                <Link to = "/Home" className="nav-link atag text-black ">Home</Link>
             </li>
             <li className="nav-item liH">
-                <Link to = "/Team" className="nav-link atag text-white ">Team</Link>
+                <Link to = "/Team" className="nav-link atag text-black ">Team</Link>
             </li>
             <li className="nav-item liH ">
-                <Link to = "/Prices" className="nav-link atag text-white ">Prices</Link>
+                <Link to = "/Prices" className="nav-link atag text-black ">Prices</Link>
             </li>
             <li className="nav-item liH">
-                <Link to = "/Process" className="nav-link atag text-white ">Process</Link>
+                <Link to = "/Process" className="nav-link atag text-black ">Process</Link>
             </li>
           </ul>
         </div>
