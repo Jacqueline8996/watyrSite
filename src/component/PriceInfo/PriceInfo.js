@@ -13,7 +13,7 @@ function PriceInfo() {
                 Pricing Tiers
               </div>
             </div>
-            <div className="pricingTables row">
+            <div className="pricingTables row ">
               <table class="table table-bordered tier col-md-6">
                 <thead>
                   <tr>
